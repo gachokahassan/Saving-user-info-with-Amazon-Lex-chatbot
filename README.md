@@ -118,6 +118,6 @@ Special thanks to **NextWork.org** for providing project guidelines and the comm
 ## Author
 
 **Hassan Gachoka**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/gachokahassan)  
-[![NextWork](https://img.shields.io/badge/NextWork-Explore-orange?style=flat)](https://community.nextwork.org/c/i-have-a-question?automatic_login=true)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/gachokahassan)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Explore-brightgreen)](https://learn.nextwork.org/overwhelmed_cyan_adorable_thunder/portfolio) 
 
